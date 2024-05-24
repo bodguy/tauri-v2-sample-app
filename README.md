@@ -23,7 +23,7 @@ pnpm tauri ios init
 pnpm tauri ios dev
 ```
 
-aos platform (make sure android SDK installed)
+aos platform (make sure java11, android SDK, NDK installed and check ANDROID_HOME, NDK_HOME env variables)
 
 ```
 pnpm tauri android init
